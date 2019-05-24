@@ -1,0 +1,1 @@
+$(".hamburger").click(function(){$(this).toggleClass("open"),$("header .nav").toggleClass("open")});var clipboard=new Clipboard(".copy-link");$(document).foundation();
